@@ -53,22 +53,6 @@
 <br />
 <br />
 
----
-
-### ⚡ Top Repos
-
-<a href="https://github.com/saeed-younus/motion-layout-examples">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saeed-younus&repo=motion-layout-examples&theme=buefy" />
-</a>
-<a href="https://github.com/saeed-younus/flutter-finite-cover">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saeed-younus&repo=flutter-finite-cover&theme=buefy" />
-</a>
-<br />
-<a href="https://github.com/saeed-younus/whatsapp_clone_flutter">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saeed-younus&repo=whatsapp_clone_flutter&theme=buefy" />
-</a>
-
-
 
 [website]: https://saeed-younus.github.io/#/
 [twitter]: https://twitter.com/Muhamma61725608
