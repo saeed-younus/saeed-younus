@@ -50,6 +50,14 @@
 
 <img align="left" alt="saeed-younus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saeed-younus&show_icons=true&hide_border=true&theme=buefy" />
 
+---
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saeed-younus&repo=motion-layout-examples)](https://github.com/saeed-younus/motion-layout-examples)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saeed-younus&repo=whatsapp_clone_flutter)](https://github.com/saeed-younus/whatsapp_clone_flutter)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saeed-younus&repo=flutter-finite-cover)](https://github.com/saeed-younus/flutter-finite-cover)
+
 [website]: https://saeed-younus.github.io/#/
 [twitter]: https://twitter.com/Muhamma61725608
 [facebook]: https://www.facebook.com/saeed.younus.attari
