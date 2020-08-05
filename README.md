@@ -41,6 +41,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter: Material + Cupertino make together ❤](https://medium.com/@sendtosaeed2/flutter-material-cupertino-make-together-a3d2d7849548?source=rss-73708d9f33e1------2)
+- [Motion Layout: Card Shuffle Animation](https://medium.com/@sendtosaeed2/motion-layout-card-shuffle-animation-810e7978e8d0?source=rss-73708d9f33e1------2)
+- [ViewModel with ViewModelProvider.Factory : The Creator of ViewModel](https://medium.com/koderlabs/viewmodel-with-viewmodelprovider-factory-the-creator-of-viewmodel-8fabfec1aa4f?source=rss-73708d9f33e1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
