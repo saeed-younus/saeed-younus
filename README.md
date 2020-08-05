@@ -65,11 +65,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=saeed-younus&repo=flutter-finite-cover&theme=buefy" />
 </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saeed-younus&repo=motion-layout-examples&theme=buefy)](https://github.com/saeed-younus/motion-layout-examples)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saeed-younus&repo=whatsapp_clone_flutter&theme=buefy)](https://github.com/saeed-younus/whatsapp_clone_flutter)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saeed-younus&repo=flutter-finite-cover&theme=buefy)](https://github.com/saeed-younus/flutter-finite-cover)
 
 [website]: https://saeed-younus.github.io/#/
 [twitter]: https://twitter.com/Muhamma61725608
