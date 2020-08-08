@@ -50,7 +50,7 @@
 
 ---
 
-# StackOverflow Activity
+### 🥅 StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Answer by Saeed Younus for viewpager2 interaction with SwipeRefreshLayout](https://stackoverflow.com/questions/57336292/viewpager2-interaction-with-swiperefreshlayout/60854382#60854382)
 - [Comment by Saeed Younus on How to remove icon animation for bottom navigation view in android](https://stackoverflow.com/questions/41649494/how-to-remove-icon-animation-for-bottom-navigation-view-in-android/57418992#57418992)
