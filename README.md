@@ -2,6 +2,9 @@
 
 ### Hi there, I'm Saeed - aka [Flutter Walay Baba][website] 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Muhamma61725608?label=Follow)][twitter]
+[![Linkedin: lhs-santos](https://img.shields.io/badge/-Lucas%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-saeed-younus/)][linkedin]
+
 ## I'm a Gamer, Developer, and Teacher!
 - 🔭 I’m currently working on a article!
 - 🌱 I’m currently learning backend
