@@ -65,8 +65,14 @@
 <!-- STACKOVERFLOW:END -->
 
 ---
+## &#x1f4c8; GitHub Stats
 
-<img align="left" alt="saeed-younus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saeed-younus&show_icons=true&hide_border=true&theme=buefy" />
+<a href="https://github.com/saeed-younus/saeed-younus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-younus&theme=buefy" />
+</a>
+<a href="https://github.com/saeed-younus/saeed-younus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saeed-younus&show_icons=true&hide_border=true&theme=buefy" alt="Saeed's GitHub Stats" />
+</a>
 
 <br />
 <br />
