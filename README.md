@@ -68,7 +68,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/saeed-younus/saeed-younus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-younus&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-younus&theme=buefy&hide=javascript,html" />
 </a>
 <a href="https://github.com/saeed-younus/saeed-younus">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saeed-younus&show_icons=true&hide_border=true&theme=buefy" alt="Saeed's GitHub Stats" />
