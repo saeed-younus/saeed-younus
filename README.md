@@ -58,9 +58,7 @@
 ### 🥅 StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Answer by Saeed Younus for viewpager2 interaction with SwipeRefreshLayout](https://stackoverflow.com/questions/57336292/viewpager2-interaction-with-swiperefreshlayout/60854382#60854382)
-- [Comment by Saeed Younus on How to remove icon animation for bottom navigation view in android](https://stackoverflow.com/questions/41649494/how-to-remove-icon-animation-for-bottom-navigation-view-in-android/57418992#57418992)
 - [Answer by Saeed Younus for How to update a view in a fragment from activity](https://stackoverflow.com/questions/59358315/how-to-update-a-view-in-a-fragment-from-activity/59358564#59358564)
-- [Comment by Saeed Younus on Send JSON data using OkHttp using Kotlin](https://stackoverflow.com/questions/57093440/send-json-data-using-okhttp-using-kotlin)
 - [Answer by Saeed Younus for Okhttp3 - RequestBody.create(contentType, content) Deprecated](https://stackoverflow.com/questions/57100451/okhttp3-requestbody-createcontenttype-content-deprecated/58380502#58380502)
 <!-- STACKOVERFLOW:END -->
 
