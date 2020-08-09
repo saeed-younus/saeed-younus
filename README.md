@@ -75,11 +75,11 @@
 </a>
 
 <a href="https://github.com/saeed-younus/motion-layout-examples">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saeed-younus&repo=motion-layout-examples&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saeed-younus&repo=motion-layout-examples&theme=buefy" />
 </a>
 
 <a href="https://github.com/saeed-younus/motion-layout-examples">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saeed-younus&repo=motion-layout-examples&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saeed-younus&repo=motion-layout-examples&theme=buefy" />
 </a>    
 
 <br />
